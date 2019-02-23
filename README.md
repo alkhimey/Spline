@@ -12,9 +12,11 @@ It can be used for puzzles, complex movement animations, drawing ropes, drawing 
 ### Example
 
 Drawing a spline: 
+
 <img src="screenshots/demo1.gif" width="635px" height="371px" />
 
 Animating object movement: 
+
 <img src="screenshots/demo1.gif" width="635px" height="371px" />
 
 
@@ -35,7 +37,7 @@ Create a spline object and initialize it:
 
 Add at least 4 waypoints (trying to use module with less will abort your game - this is intentional):
 
-    ......
+    todo
 
 ### Future Plans
-...
+todo
