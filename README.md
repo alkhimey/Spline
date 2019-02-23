@@ -17,7 +17,7 @@ Drawing a spline:
 
 Animating object movement: 
 
-<img src="screenshots/demo1.gif" width="635px" height="371px" />
+<img src="screenshots/demo2.gif" width="635px" height="371px" />
 
 
 
