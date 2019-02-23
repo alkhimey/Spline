@@ -7,9 +7,10 @@ This module provide two related functins:
 1. The ability to draw splines.
 2. The ability to create a spline path that can be used for aimations.
 
-It can be used for puzzles, complex movement animations, drawing ropes, drawing roller coaster rails etc.
 
-It uses Catmull Rom
+It splines used are Catmull Rom splines.
+
+It can be used creatively for puzzles, complex movement animations, drawing ropes, drawing roller coaster rails etc.
 
 ### Example
 
@@ -20,7 +21,6 @@ Drawing a spline:
 Animating object movement using a spline: 
 
 <img src="screenshots/demo2.gif" width="635px" height="371px" />
-
 
 
 <sup> Game used for this demo is <i><a href="https://github.com/adventuregamestudio/ags-templates/blob/master/Templates/Sierra-style.agt">Sierra-style </a></i> template. All rights for the shown art are reserved for the respective artists. </sup>
