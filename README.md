@@ -27,7 +27,7 @@ Animating object movement using a spline:
 
 ### Importing the Module
 
-Import an `.scm` file ("_Explore Project_ -> Right Click on _Scripts_ -> _Import Script..._. Get it from the [_Releases_](https://github.com/alkhimey/TBD/releases) section on Github.
+Import an `.scm` file ("_Explore Project_ -> Right Click on _Scripts_ -> _Import Script..._. Get it from the [_Releases_](https://github.com/alkhimey/Spline/releases) section on Github.
 
 ### Usage
 
